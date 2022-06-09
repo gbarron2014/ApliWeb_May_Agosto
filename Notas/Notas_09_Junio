@@ -1,0 +1,12 @@
+-- Crear un repositorio en GitHub llamado certificacion_python
+-- Crear una carpeta de trabajo de trabajo en la terminal
+    mkdir python
+    cd python
+-- Clonar el repositorio certificacion_python dentro de carpeta python
+-- Definir la estructura de repositorio de acuerdo al curso Cisco Python
+   basico
+	   carpeta modulo1
+	   carpeta modulo2
+	   carpeta modulo3
+	   carpeta modulo4        
+	   
